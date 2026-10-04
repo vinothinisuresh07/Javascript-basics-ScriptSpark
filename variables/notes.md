@@ -1,6 +1,6 @@
 # Episode 1: JavaScript Intro + Variables
 
-**Video:** <https://youtu.be/Lo3YxNjOpUc?si=RyWcDQIFWK0Gpdi8>
+**Video:** <https://youtu.be/Gv6y-RuZnWE?si=FvOyoNRtHIqj4rrk>
 
 ## What is JavaScript?
 - A programming language that makes websites interactive.
