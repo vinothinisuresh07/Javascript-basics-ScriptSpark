@@ -4,7 +4,7 @@
 Code and notes from my YouTube videos on **ScriptSpark**.
 I'm sharing what I know about JavaScript and web development, in simple Tanglish, with all code in English.
 
-▶️ **YouTube:** [ScriptSpark](www.youtube.com/@scriptSpark-245)
+▶️ **YouTube:** [ScriptSpark](https://www.youtube.com/@scriptSpark-245)
 
 ---
 
