@@ -1,6 +1,6 @@
 # Episode 4: JavaScript Operators
 
-**Video:** <>https://youtu.be/EkzhgPpE5p8?si=mXEdxx_Ju3iajgXB
+**Video:** <https://youtu.be/EkzhgPpE5p8?si=mXEdxx_Ju3iajgXB>
 
 ## What is an operator?
 A symbol that performs an operation on values.
