@@ -1,6 +1,6 @@
 # Episode 3: JavaScript Values vs References
 
-**Video:** <https://youtu.be/EkzhgPpE5p8?si=sC_TeXJEywEEjp9Q>
+**Video:** <https://youtu.be/myrNWaZmgh0?si=rJWEoLtHZs4mgB9Z>
 
 ## Why this matters
 Understanding this helps you debug faster and answer common interview questions.

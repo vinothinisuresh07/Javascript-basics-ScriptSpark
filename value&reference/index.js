@@ -1,5 +1,5 @@
 // Episode 3: JavaScript Values vs References
-// Video: <https://youtu.be/EkzhgPpE5p8?si=sC_TeXJEywEEjp9Q>
+// Video: <https://youtu.be/myrNWaZmgh0?si=rJWEoLtHZs4mgB9Z>
 //
 // How to run:
 //   - Browser: press F12 -> Console tab -> paste the code
