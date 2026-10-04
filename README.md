@@ -51,7 +51,7 @@ _I add a new row after every upload._
 ## Folder structure
 
 ```
-scriptspark/
+Javascript-basics-Scriptspark/
 ├── README.md
 ├── variables/
 │   ├── index.js     # code from the video
