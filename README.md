@@ -35,6 +35,8 @@ Copy the code, open your browser, press `F12`, go to the **Console** tab, paste 
 | Data Types | [Watch](https://youtu.be/Lo3YxNjOpUc?si=-oK8z91dPHXnJV-A) | [Folder](./data-types) |
 | Values vs References | [Watch](https://youtu.be/myrNWaZmgh0?si=rJWEoLtHZs4mgB9Z) | [Folder](./values-vs-references) |
 | Operators | [Watch](https://youtu.be/EkzhgPpE5p8?si=mXEdxx_Ju3iajgXB) | [Folder](./operators) |
+| conditionals | [Watch](https://youtu.be/IBSVkoL3DVM?si=cXWdkfngjoAXV3r_) | [Folder](./conditonal-statements) |
+
 
 _I add a new row after every upload._
 
